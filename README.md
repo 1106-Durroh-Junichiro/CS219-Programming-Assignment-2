@@ -1,6 +1,7 @@
-# CS219-Programming-Assignment-2 - Junichiro Durroh
+## CS219-Programming-Assignment-2
+# Junichiro Durroh
 
-You must run this code by 
+You must run this code by:
 - unzipping the folder
 - open the program in GitHub Codespaces, launch terminal, and use "cd" command to change folder to the file location
 - type "make" in terminal to activate makefile and create all files needed
