@@ -1,5 +1,5 @@
-## CS219-Programming-Assignment-2
-# Junichiro Durroh
+## Junichiro Durroh 
+# CS219-Programming-Assignment-2
 
 You must run this code by:
 - unzipping the folder
